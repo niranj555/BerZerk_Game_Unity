@@ -15,3 +15,9 @@ Zombies’ as well as their bullets kill players
 7.	Added Audio for Zombie Growl/ Deaths and Shooting.
 8.	Scorecard has been added.
 9.	Over the shoulder view has been added. Press LeftControl to change view.
+
+Screenshot of view 1: 
+![alt text](https://github.com/niranj555/BerZerk_Game_Unity/blob/master/view1.png?raw=true)
+
+Screenshot of view 2:
+![alt text](https://github.com/niranj555/BerZerk_Game_Unity/blob/master/view2.png?raw=true)
